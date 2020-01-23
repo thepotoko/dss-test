@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "cI0Iuux",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "aperozo",
+  "listed": true,
+  "name": "git-test\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "aperozo"
+    },
+    "lastModifiedOn": 1579800995059
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "aperozo"
+    },
+    "lastModifiedOn": 1579800995059
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
