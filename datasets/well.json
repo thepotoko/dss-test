@@ -58,11 +58,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "aperozo@slb.com"
     },
-    "lastModifiedOn": 1580141310583
+    "lastModifiedOn": 1580141310610
   },
   "creationTag": {
     "versionNumber": 0,
@@ -73,7 +73,6 @@
   },
   "tags": [],
   "params": {
-    "uploadBoxId": "f85bb2a65d465e77bf8f8ac9f7ec61072010b146c2a983ab8bfda7c2a2628f48",
     "uploadConnection": "Default (in DSS data dir.)",
     "notReadyIfEmpty": false,
     "filesSelectionRules": {
