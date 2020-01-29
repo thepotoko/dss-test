@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "uTKkK8i",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "aperozo@slb.com",
+  "listed": false,
+  "name": "Other dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "aperozo@slb.com"
+    },
+    "lastModifiedOn": 1580313758388
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "aperozo@slb.com"
+    },
+    "lastModifiedOn": 1580313758388
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
